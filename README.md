@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @chanduaika
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... C language and python
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... java and java scrit
+- 💞️ I’m looking to collaborate on ...
+- I already learned HTML, CSS, C, PYTHON
 - 📫 How to reach me ... instagram- _______pablo_escobar_ or 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... my life if full of happiness
+- ⚡ Fun fact: ... my life if full of depression
 
 <!---
 chanduaika/chanduaika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
