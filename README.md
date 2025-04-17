@@ -5,7 +5,7 @@
 - I already learned HTML, CSS, C, PYTHON
 - 📫 How to reach me ... instagram- _______pablo_escobar_ or 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... my life if full of depression
+- ⚡ Fun fact: ... my life if full of errors
 
 <!---
 chanduaika/chanduaika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
